@@ -16,7 +16,7 @@ Currently
 
 Few UI tweaks, mostly icons. See below for current list.
 
-![minimal.iOS Lockscreen](http://colbyfayock.com/minimal.ios/minimal.iOS.7-preview.png)
+<img width="200" src="http://colbyfayock.com/minimal.ios/minimal.iOS.7-preview.png" alt="minimal.iOS Lockscreen"/>
 
  - Alien Blue
  - AMEX
